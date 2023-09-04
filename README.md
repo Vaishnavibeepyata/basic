@@ -1,2 +1,4 @@
 # basic
-practice purpose
+BASIC REPOSITORY
+<br>
+for practicising
